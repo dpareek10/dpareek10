@@ -20,14 +20,15 @@ I am currently leading the development of **BridgeAI**, an open-source framework
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,python,r,scala,docker,git,gcp,aws,bitbucket,figma&theme=light)](https://skillicons.dev)
 
 ### 📊 Impact at a Glance
-![Deepali's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+![Deepali's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpareek10&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpareek10&layout=compact&theme=transparent)
 
 ---
 
 ### 🌱 Community & Mentorship
 - **Member:** JECRC Co-Chair
 - **Focus:** Democratizing AI for SMEs, Ethical AI Performance, and Atlanta Tech Growth.
-- **Connect:** https://www.linkedin.com/in/dpareek2810/
+- **Connect:** [LinkedIn](https://www.linkedin.com/in/dpareek2810/)
 
+---
 *"Building the infrastructure for the next generation of American small business."*
