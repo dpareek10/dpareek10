@@ -1,5 +1,5 @@
-# Hi there, I'm Deepali! 👋 
-### Analytics & AI Performance Manager | MSIS | Community Builder
+## Hi, I'm Deepali! 👋 
+**`Analytics & AI Performance Manager | MSIS | Community Builder`**
 
 I’m a data leader based in **Atlanta, GA**, currently focused on optimizing AI performance at **Staples**. My career is built on the belief that high-level data science shouldn't just be for Fortune 500s—it should empower the entire community.
 
