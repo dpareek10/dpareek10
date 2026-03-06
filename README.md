@@ -17,7 +17,7 @@ I am currently leading the development of **BridgeAI**, an open-source framework
 - **Academic:** MS in Information Systems from **Georgia State University**.
 
 ### 🛠 Tech Stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=python,SQLServer,TableauCloud,Databricks,docker,git,gcp,aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,python,r,scala,docker,git,gcp,aws,bitbucket,figma&theme=light)](https://skillicons.dev)
 
 ### 📊 Impact at a Glance
 ![Deepali's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
