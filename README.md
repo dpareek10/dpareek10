@@ -30,5 +30,4 @@ I am currently leading the development of **BridgeAI**, an open-source framework
 - **Focus:** Democratizing AI for SMEs, Ethical AI Performance, and Atlanta Tech Growth.
 - **Connect:** [LinkedIn](https://www.linkedin.com/in/dpareek2810/)
 
----
 *"Building the infrastructure for the next generation of American small business."*
